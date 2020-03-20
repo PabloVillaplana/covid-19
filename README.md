@@ -1,2 +1,5 @@
-# covid-19
-Monitoring Covid-19 Map
+# COVID 19 Map
+Using Google Maps to monitoring coronavirus :(
+- API -> https://github.com/Laeyoung/COVID-19-API
+
+
